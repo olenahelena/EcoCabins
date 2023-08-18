@@ -9,7 +9,7 @@ My task was to create a page, which would be adaptive and which would look simil
 
 ### Links
 
-- Live Site URL: (https://eloquent-monstera-9a382b.netlify.app/)
+- Live Site URL: (https://celadon-pudding-23f089.netlify.app/)
 
 
 ### Built with
